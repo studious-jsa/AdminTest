@@ -13,9 +13,9 @@
 	</head>
 	<body>
 		<div id="wrap">
-			<h1>메인페이지</h1>
+			<h1>메인페이지(수정)</h1>
 			<hr>
-			
+			<img src="/image/daum_logo.png" alt="">
 		</div>
 		<!-- #wrap -->
 		<script src="https://code.jquery.com/jquery-3.6.4.js" 
